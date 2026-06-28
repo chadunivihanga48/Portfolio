@@ -35,7 +35,7 @@ const Home = () => {
         <img src= {portfolio1} alt= "" className= 'absolute w-115 h-115 rounded-full object-cover mt-12 opacity-90'/>
 
         {/*main profile image */}
-        <img src= {my} alt= "" className= 'relative w-96 h-96 rounded-full object-cover '/>
+        <img src= {my} alt= "" className= 'relative w-100 h-100 object-cover '/>
       </div>
     </div>
   )
